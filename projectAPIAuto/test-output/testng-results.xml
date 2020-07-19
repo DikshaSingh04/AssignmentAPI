@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-19T14:55:05 IST" name="Default suite" finished-at="2020-07-19T14:55:08 IST" duration-ms="2696">
+    <groups>
+    </groups>
+    <test started-at="2020-07-19T14:55:05 IST" name="Default test" finished-at="2020-07-19T14:55:08 IST" duration-ms="2696">
+      <class name="project.Basics1Test">
+        <test-method signature="getListOfUsers()[pri:0, instance:project.Basics1Test@6973bf95]" started-at="2020-07-19T14:55:05 IST" name="getListOfUsers" finished-at="2020-07-19T14:55:07 IST" duration-ms="2084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfUsers -->
+        <test-method signature="getListOfUsers1()[pri:0, instance:project.Basics1Test@6973bf95]" started-at="2020-07-19T14:55:07 IST" name="getListOfUsers1" finished-at="2020-07-19T14:55:08 IST" duration-ms="572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfUsers1 -->
+      </class> <!-- project.Basics1Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
